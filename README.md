@@ -36,6 +36,24 @@ Enter command: <Type command>
 ```
 The output of the commands will be written to: output.txt.
 
+All options:
+```
+python ssh_connect.py -h
+
+Script is created by T.Slenter
+The switches input is as following: hostname or ip,hostname or ip,hostname or ip
+Running from directory:  F:\ssh_connector\ssh_connector
+usage: ssh_connect.py [-h] [-n HOST] [-u USERNAME] [-p PASSWORD]
+                      [-s SINGLECOMMAND] [-f FILE]
+
+optional arguments:
+  -h, --help            				                    show this help message and exit
+  -n HOST, --host HOST  				                    Enter a hostname or ip, multiple hostname and ips are supported use seperator=,
+  -u USERNAME, --username USERNAME 			            Add a username
+  -p PASSWORD, --password PASSWORD			            Add a password
+  -s SINGLECOMMAND, --singlecommand SINGLECOMMAND	  Enter a single command
+  -f FILE, --file FILE  				                    Add file with commands
+```
 ## 3. Donation
 
 Crypto:
