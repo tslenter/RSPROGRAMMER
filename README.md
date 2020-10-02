@@ -6,7 +6,7 @@ This connector can be used on multiple vendors. Tested for Ubiquiti and Cisco de
 
 Capabilities: Configure multiple devices with the same configuration. All output will be written to a plain text file.
 
-Created for: To update logging configuration for all network devices of the same type.
+Created for: To update logging configuration for all network devices of the same type. Can be used for other configurations!
 
 ## 2. Usage
 Run as single cli command with multiple remote commands do:
