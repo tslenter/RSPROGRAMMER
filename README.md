@@ -47,12 +47,12 @@ usage: ssh_connect.py [-h] [-n HOST] [-u USERNAME] [-p PASSWORD]
                       [-s SINGLECOMMAND] [-f FILE]
 
 optional arguments:
-  -h, --help            				                    show this help message and exit
-  -n HOST, --host HOST  				                    Enter a hostname or ip, multiple hostname and ips are supported use seperator=,
-  -u USERNAME, --username USERNAME 			            Add a username
-  -p PASSWORD, --password PASSWORD			            Add a password
-  -s SINGLECOMMAND, --singlecommand SINGLECOMMAND	  Enter a single command
-  -f FILE, --file FILE  				                    Add file with commands
+  -h, --help            				show this help message and exit
+  -n HOST, --host HOST  				Enter a hostname or ip, multiple hostname and ips are supported use seperator=,
+  -u USERNAME, --username USERNAME 			Add a username
+  -p PASSWORD, --password PASSWORD			Add a password
+  -s SINGLECOMMAND, --singlecommand SINGLECOMMAND	Enter a single command
+  -f FILE, --file FILE  				Add file with commands
 ```
 ## 3. Donation
 
