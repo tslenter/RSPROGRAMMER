@@ -1,7 +1,7 @@
-# **Remote Syslog Network Connector**
+# **Remote Syslog Programmer**
 
 ## 1. Introduction
-Remote Syslog Network Connector is a ssh connector written in python to configure device with SSH support.
+Remote Syslog Programmer is a ssh connector written in python to configure device with SSH support.
 This connector can be used on multiple vendors. Tested for Ubiquiti and Cisco devices.
 
 Capabilities: Configure multiple devices with the same configuration. All output will be written to a plain text file.
